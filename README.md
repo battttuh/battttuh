@@ -26,7 +26,7 @@
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=batttuh&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=battttuh&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
 
 
@@ -37,9 +37,9 @@
 <div align="center">
   <div align="center">
 <a href="https://github.com/battttuh/github-profile-views-counter">
-    <img align="center" src="https://komarev.com/ghpvc/?username=batttuh&color=f75c7e">
+    <img align="center" src="https://komarev.com/ghpvc/?username=battttuh&color=f75c7e">
 </a>
 <a href="https://github.com/battttuh?tab=followers">
-    <img align="center"  src="https://img.shields.io/github/followers/batttuh?style=flat-square&color=f75c7e">
+    <img align="center"  src="https://img.shields.io/github/followers/battttuh?style=flat-square&color=f75c7e">
 </a>
   </div>
